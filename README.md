@@ -1,3 +1,8 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/anshpangoria92748/WIG-UAV-Ground-Effect-Research)
+![GitHub repo size](https://img.shields.io/github/repo-size/anshpangoria92748/WIG-UAV-Ground-Effect-Research)
+![GitHub contributors](https://img.shields.io/github/contributors/anshpangoria92748/WIG-UAV-Ground-Effect-Research)
+![GitHub stars](https://img.shields.io/github/stars/anshpangoria92748/WIG-UAV-Ground-Effect-Research?style=social)
+
 ✈️ WIG-UAV Ground-Effect Research
 Ansh Pangoria
 
