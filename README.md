@@ -1,23 +1,76 @@
-WIG-UAV Ground-Effect Research — Ansh Pangoria
-
-This repository contains the complete research portfolio for my work on Wing-in-Ground (WIG) Effect UAVs. It includes my poster, preprint, CAD model views, CFD results, experimental data, and final report.
-Everything is organized so it can be shared easily with professors, researchers, and admissions committees.
-
-Contents of this repository
-Poster — final poster and preview image
-Preprint — manuscript draft version
-CAD-Views — 3D model files and rendered views
-CFD-Results — simulation data and plots
-Experimental-Data — test logs and photos
-Final-Year-Report — complete final report PDF
-How to use this repository
-View the poster to get a quick visual summary
-Read the preprint for the full research description
-Download the CAD model for analysis
-Check the CFD plots for aero performance
-Review experimental logs for test results
-
-Contact
+✈️ WIG-UAV Ground-Effect Research
 Ansh Pangoria
-anshpangoria92748@gmail.com
-Agra, India
+
+📘 Project Overview
+
+This repository contains my complete research portfolio for a Wing-in-Ground (WIG) Effect UAV, developed as part of my final-year engineering project.
+It includes:
+Research Poster
+Preprint (manuscript draft)
+CAD model images
+CFD simulation results
+Experimental data (prototype build)
+Final year report
+
+Everything is organized cleanly so it can be shared with professors, researchers, and admissions committees.
+
+📄 1. Poster
+
+The research poster provides a visual summary of the concept, CFD analysis, and prototype.
+👉 View Poster PDF
+👉 Preview Image
+
+📝 2. Preprint Draft
+This is the manuscript-style report explaining the motivation, methodology, CAD modelling, simulation setup, and results.
+
+👉 Download Preprint PDF
+🛠️ 3. CAD Model Views
+
+The UAV was modeled using 3D CAD tools. High-quality renders and drawings are included.
+👉 Open CAD-Views Folder
+
+Contents include:
+Top view
+Front view
+Isometric view
+Bottom view
+Line drawing
+Frame structure illustration
+
+🌬️ 4. CFD Simulation Results
+
+CFD analysis was performed to study:
+Pressure distribution
+Velocity streamlines
+Turbulence & stability
+Temperature contours
+Solver convergence plot
+
+👉 Open CFD-Results Folder
+
+🧪 5. Experimental Data
+Images from the prototype construction and assembly process.
+
+👉 Open Experimental-Data Folder
+
+📚 6. Final Year Report
+
+Complete project documentation including objectives, methodology, analysis, and conclusions.
+
+👉 Download Final Report PDF
+
+📌 How to Use This Repository
+You can:
+View the poster for a quick idea
+Read the preprint for detailed research
+Explore CAD views for design geometry
+Review CFD results for aerodynamic data
+Check experimental photos for real prototype work
+
+📫 Contact
+
+Ansh Pangoria
+📍 Agra, India
+📧 anshpangoria92748@gmail.com
+
+⭐ If you found this project interesting, consider starring the repository!
