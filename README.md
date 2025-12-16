@@ -7,33 +7,35 @@
 Ansh Pangoria
 
 📘 Project Overview
-
 This repository contains my complete research portfolio for a Wing-in-Ground (WIG) Effect UAV, developed as part of my final-year engineering project.
 It includes:
-Research Poster
+Research poster
 Preprint (manuscript draft)
+Review paper (published)
 CAD model images
 CFD simulation results
 Experimental data (prototype build)
 Final year report
 
-Everything is organized cleanly so it can be shared with professors, researchers, and admissions committees.
-
+Everything is organized so it can be easily reviewed by professors, researchers, and admissions committees.
 📄 1. Poster
+The research poster provides a visual summary of the concept, CFD analysis, and prototype development.
 
-The research poster provides a visual summary of the concept, CFD analysis, and prototype.
 👉 View Poster PDF
 👉 Preview Image
 
 📝 2. Preprint Draft
-This is the manuscript-style report explaining the motivation, methodology, CAD modelling, simulation setup, and results.
-
+This is the manuscript-style technical document explaining the motivation, methodology, CAD modelling, CFD setup, and results.
 👉 Download Preprint PDF
-🛠️ 3. CAD Model Views
 
-The UAV was modeled using 3D CAD tools. High-quality renders and drawings are included.
+📑 3. Review Paper (Published)
+This section contains my review paper related to UAV aerodynamics and ground-effect concepts, demonstrating literature survey skills and academic research ability.
+Review paper PDF available in the Review-Paper folder
+Publication certificate included as proof of acceptance/publication
+
+🛠️ 4. CAD Model Views
+The UAV was modelled using 3D CAD tools. High-quality renders and structural illustrations are included.
 👉 Open CAD-Views Folder
-
 Contents include:
 Top view
 Front view
@@ -42,40 +44,47 @@ Bottom view
 Line drawing
 Frame structure illustration
 
-🌬️ 4. CFD Simulation Results
-
-CFD analysis was performed to study:
+🌬️ 5. CFD Simulation Results
+CFD analysis was conducted to study aerodynamic performance near the ground.
+Results include:
 Pressure distribution
 Velocity streamlines
-Turbulence & stability
+Turbulence and stability behaviour
 Temperature contours
 Solver convergence plot
 
 👉 Open CFD-Results Folder
-
-🧪 5. Experimental Data
-Images from the prototype construction and assembly process.
-
+🧪 6. Experimental Data
+Images from the UAV prototype construction and assembly process.
 👉 Open Experimental-Data Folder
 
-📚 6. Final Year Report
-
+📚 7. Final Year Report
 Complete project documentation including objectives, methodology, analysis, and conclusions.
-
 👉 Download Final Report PDF
+
+🏅 Certifications & Training
+CFD Workshop – Indian Institute of Technology (IIT)
+Hands-on training in CFD fundamentals, meshing, boundary conditions, and result interpretation.
+
+Drone Fabrication Training
+Practical exposure to UAV fabrication, assembly, and system integration.
+
+Additional Technical Skills
+Microsoft Generative AI Productivity
+Prompt Engineering for Generative AI
 
 📌 How to Use This Repository
 You can:
-View the poster for a quick idea
-Read the preprint for detailed research
+View the poster for a quick overview
+Read the preprint for technical details
+Review the published review paper for research background
 Explore CAD views for design geometry
-Review CFD results for aerodynamic data
-Check experimental photos for real prototype work
+Examine CFD results for aerodynamic insights
+Check experimental images for real prototype work
 
 📫 Contact
-
 Ansh Pangoria
 📍 Agra, India
 📧 anshpangoria92748@gmail.com
 
-⭐ If you found this project interesting, consider starring the repository!
+⭐ If you find this project interesting, feel free to explore or star the repository.
